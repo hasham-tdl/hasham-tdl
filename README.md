@@ -24,7 +24,7 @@ These programs have strengthened my foundation in computer science, machine lear
 
 
 **💻 Technical Skills**
--**Programming Languages**
+- **Programming Languages**
   - Proficient: **Python** | **C** | 
   -Familiar: **SQL**
     
