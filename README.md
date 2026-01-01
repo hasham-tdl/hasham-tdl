@@ -1,8 +1,8 @@
 ## Hi there, I'm Hasham 👋
 
 **-🎓 Computer Science Student (A-Levels)
- -AI & Machine Learning Enthusiast
- -Cybersecurity Practitioner**
+ - AI & Machine Learning Enthusiast
+ - Cybersecurity Practitioner**
 
 I’m a Computer Science student with a strong passion in Artificial Intelligence and Cybersecurity, focused on building practical, real-world solutions through hands-on development and continuous learning.
 
