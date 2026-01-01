@@ -24,10 +24,33 @@ These programs have strengthened my foundation in computer science, machine lear
 
 
 **💻 Technical Skills**
-- Languages: Python (4+ years), C
-- Web: Flask
-- Domains: Machine Learning, AI Chatbots, Cybersecurity
-- Experience: ML models, automation, web apps, security challenges
+-**Programming Languages**
+  - Proficient: **Python** | **C** | 
+  - Familiar: **SQL**
+    
+- **Generative AI**
+  - Models & Tools: **OpenAI GPT APIs** | **Stable Diffusion** | **LangChain** 
+  - Applications: **Chatbots Text Generation**
+    
+- **Networking**
+  - Library: **socket** (python)
+    
+- **Web Development**
+  - Backend: **Flask** | **Django** (familliar)
+  - Frontend: **HTML/CSS** | **JavaScript**
+
+- **Databases & Querying**
+  - Relational: **MySQL**
+  - NoSQL: **MongoDB**
+
+- **Tools & Analytics**
+  - Virtual Machines: **VMware Workstation**
+  - Data Analysis & Visualization: **Pandas** | **NumPy**
+  - IDE & Collaboration: **Jupyter Notebook** |  **VS Code**
+ 
+- **Robotics**
+  - Experience in programming and intergrating arduino and rasberry pi systems into real life scenarios.
+
 
 
 **🎯 Goals**
