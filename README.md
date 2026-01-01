@@ -27,7 +27,7 @@ These programs have strengthened my foundation in computer science, machine lear
 
 - **Programming Languages**
   - Proficient: **Python** | **C** | 
-  -Familiar: **SQL**
+  - Familiar: **SQL**
     
 - **Generative AI**
   - Models & Tools: **OpenAI GPT APIs** | **Stable Diffusion** | **LangChain** 
