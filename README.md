@@ -7,13 +7,10 @@ Technical geek with a strong passion in
 
 
 **📚 Education & Certifications**
-
-Harvard CS50 – Introduction to Computer Science
-
-CS50 AI – Artificial Intelligence with Python
-
-CS50 Cybersecurity
-
+- Harvard CS50 – Introduction to Computer Science
+- CS50 AI – Artificial Intelligence with Python
+- CS50 Cybersecurity
+- A Level CS Student
 These programs have strengthened my foundation in computer science, machine learning, and secure system design.
 
 
