@@ -1,12 +1,13 @@
 ## Hi there, I'm Hasham 👋
 
-🎓 Computer Science Student (A-Levels)
+**🎓 Computer Science Student (A-Levels)
 🤖 AI & Machine Learning Enthusiast
-🔐 Cybersecurity Practitioner
+🔐 Cybersecurity Practitioner**
 
 I’m a Computer Science student with a strong interest in Artificial Intelligence and Cybersecurity, focused on building practical, real-world solutions through hands-on development and continuous learning.
 
-📚 Education & Certifications
+
+**📚 Education & Certifications**
 
 Harvard CS50 – Introduction to Computer Science
 
@@ -16,7 +17,8 @@ CS50 Cybersecurity
 
 These programs have strengthened my foundation in computer science, machine learning, and secure system design.
 
-🛠️ What I Work On
+
+**🛠️ What I Work On**
 
 Building machine learning projects and AI-powered chatbots
 
@@ -28,7 +30,8 @@ Solving Hack The Box (HTB) machines to improve penetration testing skills
 
 Creating personal and client-focused solutions based on specific needs
 
-💻 Technical Skills
+
+**💻 Technical Skills**
 
 Languages: Python (4+ years), C
 
@@ -38,6 +41,7 @@ Domains: Machine Learning, AI Chatbots, Cybersecurity
 
 Experience: ML models, automation, web apps, security challenges
 
-🎯 Goals
+
+**🎯 Goals**
 
 Whether for academic oriented projects, research collaboration, or freelance work, I aim to deliver clean, secure, and efficient solutions while continuously improving my technical depth.
