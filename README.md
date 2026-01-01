@@ -1,6 +1,9 @@
 ## Hi there, I'm Hasham 👋
 
-Technical geek with a strong passion in Artificial Intelligence and Cybersecurity, focused on building practical, real-world solutions through hands-on development and continuous learning.
+Technical geek with a strong passion in
+- Artificial Intelligence
+- Cybersecurity
+- On building practical, real-world solutions through hands-on development and continuous learning.
 
 
 **📚 Education & Certifications**
