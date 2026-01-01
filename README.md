@@ -1,16 +1,43 @@
-## Hi there 👋
+## Hi there, I'm Hasham 👋
 
-<!--
-**hasham-tdl/hasham-tdl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student (A-Levels)
+🤖 AI & Machine Learning Enthusiast
+🔐 Cybersecurity Practitioner
 
-Here are some ideas to get you started:
+I’m a Computer Science student with a strong interest in Artificial Intelligence and Cybersecurity, focused on building practical, real-world solutions through hands-on development and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Education & Certifications
+
+Harvard CS50 – Introduction to Computer Science
+
+CS50 AI – Artificial Intelligence with Python
+
+CS50 Cybersecurity
+
+These programs have strengthened my foundation in computer science, machine learning, and secure system design.
+
+🛠️ What I Work On
+
+Building machine learning projects and AI-powered chatbots
+
+Developing web applications using Flask
+
+Working on Python-based development projects for real-world use cases
+
+Solving Hack The Box (HTB) machines to improve penetration testing skills
+
+Creating personal and client-focused solutions based on specific needs
+
+💻 Technical Skills
+
+Languages: Python (4+ years), C
+
+Web: Flask
+
+Domains: Machine Learning, AI Chatbots, Cybersecurity
+
+Experience: ML models, automation, web apps, security challenges
+
+🎯 Goals
+
+Whether for academic oriented projects, research collaboration, or freelance work, I aim to deliver clean, secure, and efficient solutions while continuously improving my technical depth.
